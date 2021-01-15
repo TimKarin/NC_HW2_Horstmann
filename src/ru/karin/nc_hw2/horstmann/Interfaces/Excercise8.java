@@ -1,7 +1,6 @@
 package ru.karin.nc_hw2.horstmann.Interfaces;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 
